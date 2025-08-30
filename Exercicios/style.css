@@ -1,0 +1,43 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Metrophobic&display=swap');
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    height: 250px;
+    width: auto;
+    padding: 10px;
+    
+}
+#titulo{
+   font-size: 90px;
+   text-align: center;
+   font-family: 'Fascinate Inline', cursive;
+   
+}
+
+header p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+main{
+    margin:  10px;
+}
+h1.rolando{
+
+}
+h1.parado{
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    font-style: italic;
+}
