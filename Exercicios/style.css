@@ -29,10 +29,13 @@ main{
     margin:  10px;
 }
 h1.rolando{
-
+background-color: antiquewhite;
+width: 600px;
+height: 300px;
 }
 h1.parado{
-
+background-color: rgb(211, 211, 211);
+width: 600px;
 }
 footer{
     background-color: black;
