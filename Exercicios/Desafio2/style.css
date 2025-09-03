@@ -9,13 +9,21 @@ body{
 header{
     background-color: black;
     color: white;
-    height: 250px;
-    width: auto;
-    padding:10px;
+    height: auto;
+    width: 1330px;
+    padding:10px ;
     
 }
+header a{
+    color: white;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration: underline;
+}
+
 #titulo{
-   font-size: 90px;
+   font-size: 8vw;
    text-align: center;
    font-family: 'Fascinate Inline', cursive;
    margin-bottom: 0;
@@ -35,20 +43,20 @@ main{
 h1.rolando{
 background-color: rgb(255, 255, 255);
 width: 1350px;
-height: 1100px;
+height: 900px;
 }
 h1.rolando p{
 font-size: 60px;
     margin: 30px;
     margin-top: 60px;
-    width: 600px;
+    width: 700px;
     height: 900px;
     padding: 5px;
     line-height: 100px;
 }
 h1.parado{
 width: 1330px;
-height: 1100px;
+height: 900px;
 background-image: url(imagens/background001.jpg);
 background-position: center;
 background-size: 1400px;
@@ -59,11 +67,11 @@ padding: 10px;
 }
 h1.parado p{
     text-align: left;
-    font-size: 60px;
+    font-size: 55px;
     margin: 30px;
     margin-top: 60px;
-    width: 600px;
-    height: 900px;
+    width: 550px;
+    height: 700px;
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
     padding: 5px;
@@ -72,7 +80,7 @@ h1.parado p{
 }
 h1.parado2{
 width: 1330px;
-height: 1100px;
+height: 850px;
 background-image: url(imagens/background002.jpg);
 background-position: center;
 background-size: 1400px;
@@ -87,7 +95,7 @@ h1.parado2 p{
     margin: 30px;
     margin-top: 60px;
     width: 600px;
-    height: 900px;
+    height: 700px;
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
     padding: 5px;
