@@ -28,16 +28,45 @@ header p{
     margin-top: 2px;
 }
 main{
-    margin:  10px;
+    margin: 0;
 }
 h1.rolando{
-background-color: antiquewhite;
-width: 600px;
-height: 300px;
+background-color: rgb(255, 255, 255);
+width: 1350px;
+height: 1100px;
+}
+h1.rolando p{
+font-size: 60px;
+    margin: 30px;
+    margin-top: 60px;
+    width: 600px;
+    height: 900px;
+    padding: 5px;
+    line-height: 100px;
 }
 h1.parado{
-background-color: rgb(211, 211, 211);
-width: 600px;
+width: 1330px;
+height: 1100px;
+background-image: url(imagens/background001.jpg);
+background-position: center;
+background-size: 1400px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+padding: 10px;
+
+}
+h1.parado p{
+    text-align: left;
+    font-size: 60px;
+    margin: 30px;
+    margin-top: 60px;
+    width: 600px;
+    height: 900px;
+    background-color: rgba(0, 0, 0, 0.562);
+    color: white;
+    padding: 5px;
+    line-height: 100px;
+    
 }
 footer{
     background-color: black;
