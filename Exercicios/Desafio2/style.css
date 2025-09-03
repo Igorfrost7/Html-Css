@@ -10,20 +10,22 @@ header{
     color: white;
     height: 250px;
     width: auto;
-    padding: 10px;
+    padding:10px;
     
 }
 #titulo{
    font-size: 90px;
    text-align: center;
    font-family: 'Fascinate Inline', cursive;
+   margin-bottom: 0;
    
 }
 
 header p{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: lighter;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 2px;
 }
 main{
     margin:  10px;
