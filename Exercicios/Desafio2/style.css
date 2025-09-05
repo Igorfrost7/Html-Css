@@ -10,7 +10,8 @@ header{
     background-color: black;
     color: white;
     height: auto;
-    width: 1330px;
+    max-width: 1330px;
+    min-width: 320px;
     padding:10px ;
     
 }
@@ -42,20 +43,23 @@ main{
 }
 h1.rolando{
 background-color: rgb(255, 255, 255);
-width: 1350px;
+max-width: 1350px;
+min-width: 320px;
 height: 900px;
 }
 h1.rolando p{
-font-size: 60px;
+font-size: 5vw;
     margin: 30px;
     margin-top: 60px;
-    width: 700px;
+    max-width: 700px;
+    min-width: 320px;
     height: 900px;
     padding: 5px;
     line-height: 100px;
 }
 h1.parado{
-width: 1330px;
+max-width: 1330px;
+min-width: 320px;
 height: 900px;
 background-image: url(imagens/background001.jpg);
 background-position: center;
@@ -67,10 +71,11 @@ padding: 10px;
 }
 h1.parado p{
     text-align: left;
-    font-size: 55px;
+    font-size: 4vw;
     margin: 30px;
     margin-top: 60px;
-    width: 550px;
+    max-width: 550px;
+    min-width: 320px;
     height: 700px;
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
@@ -79,7 +84,8 @@ h1.parado p{
     
 }
 h1.parado2{
-width: 1330px;
+max-width: 1330px;
+min-width: 320px;
 height: 850px;
 background-image: url(imagens/background002.jpg);
 background-position: center;
@@ -91,10 +97,11 @@ padding: 10px;
 }
 h1.parado2 p{
     text-align: left;
-    font-size: 60px;
+    font-size: 4vw;
     margin: 30px;
     margin-top: 60px;
-    width: 600px;
+    max-width: 600px;
+    min-width: 320px;
     height: 700px;
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
@@ -109,4 +116,6 @@ footer{
     text-align: center;
     padding: 2px;
     font-style: italic;
+    max-width: 1350px;
+    min-width: 320px;
 }
