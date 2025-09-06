@@ -48,14 +48,14 @@ min-width: 320px;
 height: 900px;
 }
 h1.rolando p{
-font-size: 5vw;
+font-size: 3.5vw;
     margin: 30px;
     margin-top: 60px;
     max-width: 700px;
     min-width: 320px;
     height: 900px;
     padding: 5px;
-    line-height: 100px;
+    line-height: 2em;
 }
 h1.parado{
 max-width: 1330px;
@@ -63,7 +63,7 @@ min-width: 320px;
 height: 900px;
 background-image: url(imagens/background001.jpg);
 background-position: center;
-background-size: 1400px;
+background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 padding: 10px;
@@ -71,7 +71,7 @@ padding: 10px;
 }
 h1.parado p{
     text-align: left;
-    font-size: 4vw;
+    font-size: 3.5vw;
     margin: 30px;
     margin-top: 60px;
     max-width: 550px;
@@ -80,7 +80,7 @@ h1.parado p{
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
     padding: 5px;
-    line-height: 100px;
+    line-height: 2em;
     
 }
 h1.parado2{
@@ -89,7 +89,7 @@ min-width: 320px;
 height: 850px;
 background-image: url(imagens/background002.jpg);
 background-position: center;
-background-size: 1400px;
+background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 padding: 10px;
@@ -97,7 +97,7 @@ padding: 10px;
 }
 h1.parado2 p{
     text-align: left;
-    font-size: 4vw;
+    font-size: 3.5vw;
     margin: 30px;
     margin-top: 60px;
     max-width: 600px;
@@ -106,7 +106,7 @@ h1.parado2 p{
     background-color: rgba(0, 0, 0, 0.562);
     color: white;
     padding: 5px;
-    line-height: 100px;
+    line-height: 2em;
     text-shadow: 2px 2px 2px black;
     
  }
